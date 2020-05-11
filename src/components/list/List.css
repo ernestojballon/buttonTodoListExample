@@ -1,0 +1,8 @@
+.listContainer{
+    background-color: gray;
+    margin-bottom:10px;
+    width: 100%;
+    padding: 20px;
+    border-radius: 20px;
+    box-sizing: border-box;
+}
